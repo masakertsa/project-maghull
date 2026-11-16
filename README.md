@@ -10,7 +10,7 @@ Project MagHull is a fuel-free, friction-free marine propulsion architecture des
 - **Differential Thrust Zero-Leak Steering:** Directional control and 360-degree on-axis rotation are achieved without rudders or external fins by independently regulating core rotation speeds.
 - **Dual-Cone Flow Geometries:** Each water intake features a tandem cone array comprising an open-rim air-breaker bullet (fore) and a reverse flow Venturi concentrator (aft).
 - **Centrifugal Particle Bypass Rim:** Centrifugal forces drive heavy debris outward against the inner perimeter into an isolated structural bypass channel, ejecting it safely out of the stern.
-- **Fused Silica (Quartz Glass) Isolation:** High-purity quartz provides chemical immunity (salinity/biofouling), zero thermal expansion, 100% magnetic flux transmission, and a passive marine heat sink.
+- **Basalt Fiber Reinforced Polymer (BFRP) & Fused Silica Isolation:** Propulsion tunnels utilize high-impact **Basalt Fiber Reinforced Polymer (BFRP)** combined with fused silica wear liners. BFRP provides total immunity to saltwater corrosion and biofouling, 100% magnetic flux transparency (zero eddy-current drag), and superior impact resilience against ice slurry and submerged debris compared to pure glass alone.
 - **Three-Rail Magnetic Levitation & Oblique Helical Drive:** Internal cores float without bearings or rubber seals using three parallel longitudinal magnetic fields aligned at an oblique angle to create continuous non-contact axial thrust.
 - **Fuel-Free Solar-Electric Drivetrain & 3-Point Displacement Tuning:** Powered by top-deck solar arrays and regulated via a 3-point mechanical adjustment linkage to tune magnetic field density and stiffness.
 
